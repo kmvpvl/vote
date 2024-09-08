@@ -21,3 +21,6 @@ body {
   font-family: "UbuntuMono", monospace;
 }
 
+button {
+  font-size: larger;
+}
